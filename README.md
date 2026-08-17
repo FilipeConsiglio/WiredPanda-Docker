@@ -1,2 +1,1 @@
-# WiredPanda-Docker
-Aprendendo a subir na nuvem usando Docker
+# wiredpanda-docker
